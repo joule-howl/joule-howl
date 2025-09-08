@@ -1,11 +1,11 @@
 # 💫About Me :
-🙋‍♂️Hi everyone, I'm Tran Trung Hau A.K.A Joule Howl.
-🤩I'm From Vietnam.
-🧑‍🎓Currently, I am a student of information technology at Saigon University.
-💻Currently, I specialize in C/C++.
-🔥I am studying more about Python, Java, and HTML.
-😘I really hope to receive feedback from everyone on my projects.
-
+🙋‍♂️Hi everyone, I'm Tran Trung Hau A.K.A Joule Howl.  
+🤩I'm From Vietnam.  
+🧑‍🎓Currently, I am a student of information technology at Saigon University.  
+💻Currently, I specialize in C/C++.  
+🔥I am studying more about Python, Java, and HTML.  
+😘I really hope to receive feedback from everyone on my projects.  
+📫My email: trantrunghau2000gr@gmail.com (or joulehowl@gmail.com)  
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/joulehowl) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/joulehowl) 
 
@@ -19,11 +19,5 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=joule-howl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=joule-howl&icon=0&color=0)](https://visitcount.itsvg.in)
